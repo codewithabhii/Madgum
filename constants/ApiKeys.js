@@ -3,7 +3,7 @@ export default {
     apiKey: "",
     authDomain: "",
     databaseURL: "",
-    projectId: ",
+    projectId: "",
     storageBucket: "",
     messagingSenderId: ""
 	}
